@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './foundation.css';
 import './App.css';
+import './foundation.css';
 import FormComponent from './FormComponent';
 
 class App extends Component {
